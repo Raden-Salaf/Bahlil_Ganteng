@@ -15,7 +15,7 @@ def main():
     ).strip()
 
     if not nama_file:
-        nama_file = "bahlil_ganteng.jpg"
+        nama_file = "bahlil_ganteng.jpg "
 
     path_gambar = Path(nama_file)
 

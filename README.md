@@ -161,9 +161,9 @@ Nilai contoh tersebut tidak mewakili gambar tertentu. Matriks hasil program bisa
 
 Gambar digital dapat direpresentasikan sebagai data numerik. Pada citra grayscale, setiap piksel memiliki nilai intensitas 0–255. Program membuktikannya dengan mengubah gambar menjadi matriks NumPy, menampilkan sebagian nilai piksel, dan menyimpan matriks lengkap ke file teks. Program juga membaca metadata dasar serta EXIF apabila tersedia.
 
-## Deskripsi singkat untuk repositori GitHub
+<!-- ## Deskripsi singkat untuk repositori GitHub
 
-> Program Python untuk analisis citra digital yang menampilkan representasi gambar sebagai matriks angka piksel, memvisualisasikan citra grayscale, dan mengekstrak metadata dasar serta EXIF menggunakan Pillow, NumPy, dan Matplotlib. Dibuat untuk pembelajaran mata kuliah Citra Digital.
+> Program Python untuk analisis citra digital yang menampilkan representasi gambar sebagai matriks angka piksel, memvisualisasikan citra grayscale, dan mengekstrak metadata dasar serta EXIF menggunakan Pillow, NumPy, dan Matplotlib. Dibuat untuk pembelajaran mata kuliah Citra Digital. -->
 
 ## Catatan
 
